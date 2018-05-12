@@ -1,0 +1,2 @@
+# JavaSimpleRpg
+Javaで作った超シンプルなRPGバトル部分
